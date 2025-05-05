@@ -31,8 +31,8 @@ Desenvolvedor Web/Mobile/Touch/AR/VR, com experiência em ambientes Web/Multimid
 
 ### 📦 Version Control & Containers
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30px" style="padding-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" title="Git" alt="Git" width="30px" style="padding-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" align="left" title="Docker" alt="Docker" width="30px" style="padding-right:10px;" />
 
 <br /><br />
 
