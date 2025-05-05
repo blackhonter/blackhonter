@@ -21,7 +21,7 @@ Desenvolvedor Web/Mobile/Touch/AR/VR, com experiência em ambientes Web/Multimid
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" align="left" title="Android Studio" alt="Android Studio" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" align="left" title="Arduino" alt="Arduino" width="30px" style="padding-right:10px;" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Protheus_logo.png/600px-Protheus_logo.png" align="left" title="Proteus" alt="Proteus" width="30px" style="padding-right:10px;" />
-<img src="https://images.seeklogo.com/logo-png/48/1/autodesk-fusion-360-logo-png_seeklogo-482400.png" align="left"  title="Fusion 360" alt="Fusion 360" width="30px" style="padding-right:10px;" />
+<img src="https://forums.autodesk.com/html/assets/autodesk-fusion-product-icon.svg" align="left"  title="Fusion 360" alt="Fusion 360" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" align="left" title="Blender" alt="Blender" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" title="VS Code" alt="VS Code" width="30px" style="padding-right:10px;" />
 
