@@ -12,6 +12,8 @@ Desenvolvedor Web/Mobile/Touch/AR/VR, com experiência em ambientes Web/Multimid
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" align="left" title="Unreal Engine" alt="Unreal Engine" width="30px" style="padding-right:10px;" />
 <img src="https://seeklogo.com/images/R/roblox-logo-2E3A6E0D3C-seeklogo.com.png" align="left" title="Roblox" alt="Roblox" width="30px" style="padding-right:10px;" />
 
+<br /><br />
+
 ---
 
 ### 🛠️ Development Tools & IDEs
@@ -23,12 +25,16 @@ Desenvolvedor Web/Mobile/Touch/AR/VR, com experiência em ambientes Web/Multimid
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" align="left" title="Blender" alt="Blender" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" title="VS Code" alt="VS Code" width="30px" style="padding-right:10px;" />
 
+<br /><br />
+
 ---
 
 ### 📦 Version Control & Containers
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30px" style="padding-right:10px;" />
+
+<br /><br />
 
 ---
 
@@ -45,6 +51,8 @@ Desenvolvedor Web/Mobile/Touch/AR/VR, com experiência em ambientes Web/Multimid
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="left" title="HTML5" alt="HTML5" width="30px" style="padding-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="left" title="CSS3" alt="CSS3" width="30px" style="padding-right:10px;" />
 
+<br /><br />
+
 ---
 
 ### 📊 Estatísticas
@@ -53,7 +61,7 @@ Desenvolvedor Web/Mobile/Touch/AR/VR, com experiência em ambientes Web/Multimid
 <img 
   align="left" 
   alt="GitHub Stats" 
-  height="200" 
+  height="150" 
   style="padding-right: 10px;" 
   src="https://github-readme-stats.vercel.app/api?username=blackhonter&show_icons=true&theme=catppuccin_latte&include_all_commits=true&locale=pt-br" 
 />
@@ -61,6 +69,6 @@ Desenvolvedor Web/Mobile/Touch/AR/VR, com experiência em ambientes Web/Multimid
 <img 
   align="left" 
   alt="GitHub Stats" 
-  height="200" 
+  height="150" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackhonter&theme=catppuccin_latte&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
