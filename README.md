@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c38fbd13-9b74-4c6e-94df-4c52bc7f4f65)#  Jason Piloti
+#  Jason Piloti
 
 **`Especialista em Tecnologia`**
 
